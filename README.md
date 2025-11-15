@@ -1,4 +1,4 @@
-# DSC_Assignment_IMS2400
+# DSC_Assignment_IMS24007
 DSC212 – Modularity on the Karate Club Graph
 Recursive Spectral Modularity Partitioning
 
